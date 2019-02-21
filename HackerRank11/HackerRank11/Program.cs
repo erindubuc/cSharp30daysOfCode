@@ -33,7 +33,7 @@ class Solution
 
         // current sum and max sum both initialize to 0 
         int currentSum = 0;
-        int maxSum = 0;
+        int maxSum = -63;
 
         // loop over row for length - 2 
         for (int row = 0; row < matrix.Length - 2; row++)
