@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedLogic", "NestedLogic\NestedLogic.csproj", "{8204BF9E-66C7-4A21-A5B2-E405A744FABA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8204BF9E-66C7-4A21-A5B2-E405A744FABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8204BF9E-66C7-4A21-A5B2-E405A744FABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8204BF9E-66C7-4A21-A5B2-E405A744FABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8204BF9E-66C7-4A21-A5B2-E405A744FABA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7FC6AF4-DEC2-42A5-9978-0D5AD5971327}
+	EndGlobalSection
+EndGlobal
